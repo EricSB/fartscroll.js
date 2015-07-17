@@ -16,5 +16,6 @@ fartscroll();
 // Fart every 800 pixels scrolled
 fartscroll(800);
 ```
+[Plunker Demo](//run.plnkr.co/plunks/bPiM14/)
     
 More info at [http://theonion.github.io/fartscroll.js/](http://theonion.github.io/fartscroll.js/).
